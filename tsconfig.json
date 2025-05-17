@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.Iterable", "esnext"],
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "verbatimModuleSyntax": true,
+    "moduleDetection": "force",
+    "noUncheckedIndexedAccess": true
+  },
+}
